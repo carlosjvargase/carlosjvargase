@@ -1,7 +1,7 @@
 ### Hi there 👋
 # ![https://www.carlosjvargase.com/](https://www.carlosjvargase.com/carlosjvargase.png)
 # ![https://www.carlosjvargase.com/](https://carlosjvargase.com/Banner_Github.png) Hello, my name is Carlos J Vargas E
-### Freelance Frontend React Js Developer
+### Freelance Frontend React Js Developer.
 <!--
 **carlosjvargase/carlosjvargase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
